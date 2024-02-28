@@ -71,5 +71,3 @@ class NepalDemography {
     }
 }
 exports.NepalDemography = NepalDemography;
-const nepal = new NepalDemography();
-console.log(nepal.getPalikaByDistrict("Achham"));

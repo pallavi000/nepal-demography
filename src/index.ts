@@ -56,6 +56,3 @@ export class NepalDemography {
     return palika["Ga.Pa."];
   }
 }
-
-const nepal = new NepalDemography();
-console.log(nepal.getPalikaByDistrict("Achham"));

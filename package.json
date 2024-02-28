@@ -1,6 +1,6 @@
 {
   "name": "nepal-demography",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nepal Geo-Location package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

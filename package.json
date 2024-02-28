@@ -1,0 +1,20 @@
+{
+  "name": "nepal-demography",
+  "version": "1.0.0",
+  "description": "Nepal Geo-Location package",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pallavi000/nepal-demography.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
